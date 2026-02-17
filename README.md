@@ -105,9 +105,9 @@ Mobile navigation includes hamburger menu.
 
 ## 🚀 Live Demo
 
-Live Website: [Add your Vercel link here]
+Live Website: [(https://grow-my-therapy-xwk5.vercel.app)]
 
-GitHub Repository: [Add repo link here]
+GitHub Repository: [(https://github.com/OmkarNiphade/grow-my-therapy)]
 
 ---
 
